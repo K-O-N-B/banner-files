@@ -1,7 +1,7 @@
 {
   "version": "v1.0.0",
   "icon": "🧪",
-  "message": "【测试模式】这是从GitHub自动加载的Banner配置！修改version字段可触发所有用户强制更新。",
+  "message": "【Online】使用本插件期间，不要使用官方的工作流功能，不要使用官方的保存，会导致文件错乱！",
   "enabled": true,
   "updated_at": "2025-10-10T12:00:00Z",
   "description": "这是GitHub Banner功能的测试配置文件。修改此文件后，所有用户会在30秒内自动同步更新。",
@@ -16,4 +16,5 @@
     ]
   }
 }
+
 
