@@ -1,9 +1,9 @@
 {
-  "version": "v2.0.1",
+  "version": "v2.0.2",
   "enabled": true,
   "carousel": {
     "enabled": true,
-    "interval": 5000
+    "interval": 10000
   },
   "messages": [
     {
@@ -18,3 +18,4 @@
     }
   ]
 }
+
