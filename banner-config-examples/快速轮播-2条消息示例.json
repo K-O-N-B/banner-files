@@ -1,0 +1,28 @@
+{
+  "version": "v2.0.0",
+  "enabled": true,
+  "updated_at": "2025-10-11T12:00:00Z",
+  "description": "快速轮播示例 - 2条消息，3秒间隔",
+  
+  "carousel": {
+    "enabled": true,
+    "interval": 3000,
+    "pauseOnHover": true,
+    "showIndicators": true,
+    "loop": true
+  },
+  
+  "messages": [
+    {
+      "id": "alert-1",
+      "icon": "🚫",
+      "message": "【紧急】请勿使用官方 tab 保存，会导致数据错误！"
+    },
+    {
+      "id": "tip-1",
+      "icon": "💡",
+      "message": "【提示】使用插件内置的保存功能更安全可靠。"
+    }
+  ]
+}
+

@@ -1,0 +1,33 @@
+{
+  "version": "v2.0.0",
+  "enabled": true,
+  "updated_at": "2025-10-11T12:00:00Z",
+  "description": "单次播放示例 - 欢迎引导，播放一次后停止",
+  
+  "carousel": {
+    "enabled": true,
+    "interval": 5000,
+    "pauseOnHover": true,
+    "showIndicators": true,
+    "loop": false
+  },
+  
+  "messages": [
+    {
+      "id": "welcome-1",
+      "icon": "👋",
+      "message": "【欢迎】感谢使用 NZ 工作流助手！"
+    },
+    {
+      "id": "welcome-2",
+      "icon": "🚀",
+      "message": "【开始】让我们一起提升工作效率吧！"
+    },
+    {
+      "id": "welcome-3",
+      "icon": "📖",
+      "message": "【文档】遇到问题？查看 Notion 文档了解更多。"
+    }
+  ]
+}
+
